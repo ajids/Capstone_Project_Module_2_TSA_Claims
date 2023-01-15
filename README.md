@@ -20,7 +20,7 @@ Dari pernyataan masalah di atas, saya akan mencoba membedah lebih mendalam kepad
 * Jenis klaim tertinggi apa yang diajukan di setiap bandara tersebut?
 * Dimana saja lokasi yang paling sering terjadi pelaporan klaim di dalam bandara tersebut
  
-link video dan code: https://drive.google.com/drive/u/0/folders/1oX2_rGl0YHjwfka2PInr0bsJmNgOOtfa
+link video dan code: https://drive.google.com/drive/folders/1oX2_rGl0YHjwfka2PInr0bsJmNgOOtfa?usp=sharing
  
  
 
